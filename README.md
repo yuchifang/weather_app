@@ -8,6 +8,7 @@ Use "redux": "^4.0.0" </br>
 Use "redux-promise": "^0.6.0" </br>
 </br>
 Use axios OpenWeatherMap API</br>
-Use "react-sparklines" 顯示圖表
+Use "react-sparklines" 顯示圖表</br>
+Use lodash 計算平均</br>
 ## Video Walk Through
 ![](https://i.imgur.com/KxrtBAB.gif)
