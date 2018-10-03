@@ -2,7 +2,7 @@
   "name": "weather",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://yuchifang.github.io/hello/",
+  "homepage": "https://yuchifang.github.io/weather_app/",
   "dependencies": {
     "axios": "^0.18.0",
     "lodash": "^4.17.11",
